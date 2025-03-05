@@ -2,7 +2,7 @@
 
 **`Reader/Lifter/Artist/Silly Code Man`**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D11FF&width=435&lines=Aspiring+Web+Developer;Always+learning+new+things..;I+think+interactivity+and+animations+are+pretty+cool...." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D11FF&width=600&lines=Aspiring+Web+Developer;Always+learning+new+things..;I+think+interactivity+and+animations+are+pretty+cool...." alt="Typing SVG" /></a>
 
 ***
 
