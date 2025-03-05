@@ -1,9 +1,8 @@
-# :dragon: Micheal Wooler
-<h1 align="left" style="color:#9D11FF;">:dragon: Micheal Wooler</h1>
+<h1 align="left" style="color: #9D11FF;">:dragon: Micheal Wooler</h1>
 
 **`Reader/Lifter/Artist/Silly Code Man`**
 
-I think interactivity and animations are pretty cool....
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D11FF&center=true&width=435&lines=Aspiring+Web+Developer;Always+learning+new+things..;I+thinknteractivity+and+animations+are+pretty+cool...." alt="Typing SVG" /></a>
 
 ***
 
