@@ -1,5 +1,8 @@
 # :dragon: Micheal Wooler
 
+**'Reader/Lifter/Silly Code Man'**
+
+I think interactivity and animations are pretty cool....
 
 ***
 
