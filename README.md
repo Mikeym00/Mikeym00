@@ -1,13 +1,5 @@
-## Hi there 👋
+# :dragon: Micheal Wooler
 
-# :dragon: Micheal Wooler :dragon:
-
-
-
-- Especially love interactivity 
-- animations 
-
-- Experimenting with css/sass animations and 3js 
 
 ***
 
