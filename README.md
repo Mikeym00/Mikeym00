@@ -1,6 +1,6 @@
 # :dragon: Micheal Wooler
 
-**`Reader/Lifter/Silly Code Man`**
+**`Reader/Lifter/Artist/Silly Code Man`**
 
 I think interactivity and animations are pretty cool....
 
