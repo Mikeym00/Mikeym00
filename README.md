@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+# :dragon: Micheal Wooler :dragon:
+
+
+
+- Especially love interactivity 
+- animations 
+
+- Experimenting with css/sass animations and 3js 
+
+***
+
+### :wrench: Languages and Tools
+
 <!--
 **Mikeym00/Mikeym00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
