@@ -1,4 +1,4 @@
-<h1 align="left" style="color: red;">:dragon: Micheal Wooler</h1>
+# :dragon: Micheal Wooler
 
 **`Reader/Lifter/Artist/Silly Code Man`**
 
